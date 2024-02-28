@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347525700636",
+    "project_id": "post-accept-deny",
+    "storage_bucket": "post-accept-deny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347525700636:android:8a4e3d0a3f590f13ba53d9",
+        "android_client_info": {
+          "package_name": "com.manuni.postacceptdeny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347525700636-ebmnl1pdagpoovvl5doluc7ocu6183ut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA90N0X91uvuL6utCRvQq8cZCkkwl6xG-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347525700636-ebmnl1pdagpoovvl5doluc7ocu6183ut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
